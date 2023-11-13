@@ -2,9 +2,18 @@ project:
   type: website
   output-dir: docs
   
+execute: 
+  freeze: auto
+  
 website:
   title: "Excel Utilities"
+  
+  image: /assets/excel-utilities-logo.png
+  favicon: /assets/excel-utilities-logo.png
+  
   navbar:
+    collapse: true
+    logo: /assets/excel-utilities-logo.png
     left:
       - href: index.qmd
         text: Home
@@ -19,8 +28,11 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme:
+      light: flatly
+      dark: darkly
     toc: true
+    link-external-newwindow: true
 
 editor: source
 
