@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: darkly
     toc: true
 
 editor: source

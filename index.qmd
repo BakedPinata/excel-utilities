@@ -1,19 +1,23 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: |
+  About Me
+subtitle: |
+  A Short Description of Me.
+author: "Micahel Archer"
+date: 2023-11-13
+# date-modified: 2023-04-19
+date-format: full
+link-external-newwindow: true
 ---
-
-:::{#me}
 
 ## Goals
 
+here are my goals
+
 ## Education
 
-## Experience
+This is a test
 
-:::
+## Experience
 
 Thanks for checking out my web site!
