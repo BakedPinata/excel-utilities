@@ -3,7 +3,7 @@ title: |
   About Me
 subtitle: |
   A Short Description of Me.
-author: "Micahel Archer"
+author: "Michael Archer"
 date: 2023-11-13
 # date-modified: 2023-04-19
 date-format: full
